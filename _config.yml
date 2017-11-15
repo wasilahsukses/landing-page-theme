@@ -3,13 +3,14 @@
 # ----------------------- #
 
 url: http://wasilahsukses.github.io
-title: Wasilah Sukses Site
+title: PayTren Wasilah Sukses
 email: triafrizalhilmi@gmail.com
 author: Tri Afrizal Hilmi
 description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
+  PayTren adalah aplikasi pembayaran online via Android atau Apple yang
+  dapat digunakan untuk melakukan pembayaran pulsa, listrik, BPJS, angsuran leasing,
+  booking tiket kereta, pesawat, voucher game, telkom, speedy, TV kabel, 
+  dan akan terus berinovasi untuk bisa digunakan untuk pembayaran apapun.
 copyright: 'Copyright &copy; 2017 Tri Afrizal Hilmi. All Rights Reserved.'
 credits: 'Credits: Open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
