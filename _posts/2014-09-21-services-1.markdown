@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ipad.png
+img: combo-manfaat.jpg
 category: Services
 title: PENTING!
 description: |
