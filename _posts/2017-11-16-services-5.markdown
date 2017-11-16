@@ -1,6 +1,6 @@
 ---
 layout: default
-img: benefit.jpg
+img: program.jpg
 category: Services
 title: BIAYA<br>INVESTASI
 description: |
