@@ -1,10 +1,12 @@
 ---
 layout: default
-img: dog.png
+img: actionnow.jpg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Action<br>Now
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!!
+  "Jika Anda sudah mengenal PayTren, tahu cara kerjanya dan tahu keuntungannya
+  
+  Sekarang pasti Anda sudah memutuskan untuk DAFTAR, melalui link ini [FORMULIR PENDAFTARAN](https://bit.ly/FormulirDftrPayTren)
+  
+  Bagi Anda yang belum, harap baca sampai tuntas ^_^
