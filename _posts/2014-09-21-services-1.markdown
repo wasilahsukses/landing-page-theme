@@ -2,9 +2,11 @@
 layout: default
 img: ipad.png
 category: Services
-title: PENTING!<br>Sebelum Anda melanjutkan membaca tulisan berikutnya coba ingat-ingat pertanyaan ini:
+title: PENTING!
 description: |
 ---
+Sebelum Anda melanjutkan membaca tulisan berikutnya coba ingat-ingat pertanyaan ini:
+
 "Kapan terakhir kali Anda mengeluh bekerja pada orang lain?"
 
 "Usaha apakah yang akan Anda mulai jalankan?"
