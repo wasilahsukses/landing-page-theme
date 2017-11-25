@@ -1,0 +1,10 @@
+---
+layout: default
+img: bonus.jpg
+category: Services
+title: BONUS PLUS<br>UNTUK ANDA
+description: |
+---
+Jika Anda sudah membuat keputusan tepat untuk menjadi mitra PayTren, Anda bisa segera mengisi [FORMULIR PENDAFTARAN](https://bit.ly/FormulirDftrPayTren) ini.
+
+![alt text](https://github.com/wasilahsukses/wasilahsukses.github.io/blob/master/img/kp25.jpg "kp25")
