@@ -5,6 +5,6 @@ category: Services
 title: BONUS PLUS<br>UNTUK ANDA
 description: |
 ---
-Jika Anda sudah membuat keputusan tepat untuk menjadi mitra PayTren, Anda bisa segera mengisi [FORMULIR PENDAFTARAN](https://bit.ly/FormulirDftrPayTren) ini.
+Jika Anda sudah membuat keputusan matang untuk menjadi bagian dari komunitas positif PayTren, Anda bisa segera mengisi [FORMULIR PENDAFTARAN](https://bit.ly/FormulirDftrPayTren) ini terlebih dahulu.
 
-![alt text](https://github.com/wasilahsukses/wasilahsukses.github.io/blob/master/img/kp25.jpg "kp25")
+![alt text](https://raw.githubusercontent.com/wasilahsukses/wasilahsukses.github.io/blob/master/img/kp25.jpg "kp25")
