@@ -21,6 +21,7 @@ credits: 'Credits: Open source Bootstrap theme created by <a href="http://startb
 # Build settings
 markdown: kramdown
 permalink: pretty
+plugins: - jekyll-seo-tag
 
 # ----------------------- #
 #   3rd Party Settings    #
