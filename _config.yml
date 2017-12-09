@@ -5,12 +5,13 @@
 url: http://wasilahsukses.github.io
 title: PayTren Wasilah Sukses
 email: triafrizalhilmi@gmail.com
-author: Tri Afrizal Hilmi
+author: Afrizal Hilmi
 description: > # "Write an awesome description for your new site here. 
   PayTren adalah aplikasi pembayaran online via Android atau Apple yang
   dapat digunakan untuk melakukan pembayaran pulsa, listrik, BPJS, angsuran leasing,
   booking tiket kereta, pesawat, voucher game, telkom, speedy, TV kabel, 
   dan akan terus berinovasi untuk bisa digunakan untuk pembayaran apapun.
+  Solusi transaksi cerdas bernilai sedekah, peluang bisnis fintech syariah.
 copyright: 'Copyright &copy; 2017 Wasilah Sukses. All Rights Reserved.'
 credits: 'Credits: Open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
@@ -31,6 +32,6 @@ social:
   - title: facebook
     url: https://fb.me/shofwa.paytren
   - title: twitter
-    url: https://bit.ly/BimbinganAktivasiPayTren
+    url: 
   - title: instagram
     url: 
